@@ -1,0 +1,23 @@
+{
+  "name": "co-mongoose",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hrsh7th/co-mongoose"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hrsh7th/co-mongoose/issues"
+  },
+  "homepage": "https://github.com/hrsh7th/co-mongoose",
+  "dependencies": {
+    "mongoose": "~3.8.8",
+    "thunkify": "~2.1.1"
+  }
+}
